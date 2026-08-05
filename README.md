@@ -1,4 +1,4 @@
-# Xianxia Agent Skills｜跨平台仙侠创作技能合集
+# Xianxia Agent Skills｜tiktok/抖音短剧 仙侠创作技能合集
 
 一套中文仙侠、修仙、玄幻及古偶奇幻创作 Skills，适用于 Codex、Kimi、Qoder，以及支持自定义指令、项目规则、知识文件或文件上传的其他 AI Agent。覆盖从世界观、故事、剧本到分镜、AI 视频提示词、接镜和声音设计的完整流程。
 
