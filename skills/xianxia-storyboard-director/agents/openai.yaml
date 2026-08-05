@@ -1,0 +1,4 @@
+interface:
+  display_name: "仙侠导演分镜"
+  short_description: "把定稿仙侠剧本转成可执行导演方案、镜头语言与标准分镜"
+  default_prompt: "使用 $xianxia-storyboard-director 把这场仙侠戏拆成可拍摄分镜。"

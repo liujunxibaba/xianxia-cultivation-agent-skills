@@ -1,0 +1,4 @@
+interface:
+  display_name: "仙侠台词精修"
+  short_description: "精修仙侠古风对白、潜台词、宗门称谓、誓言与法术口诀"
+  default_prompt: "使用 $xianxia-dialogue-polish 精修仙侠角色对白但不改剧情。"

@@ -1,0 +1,4 @@
+interface:
+  display_name: "仙侠故事策划"
+  short_description: "把仙侠灵感发展成角色关系、项目档案与可持续故事大纲"
+  default_prompt: "使用 $xianxia-story-development 把仙侠灵感发展成项目档案和故事大纲。"

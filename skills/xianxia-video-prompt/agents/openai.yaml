@@ -1,0 +1,4 @@
+interface:
+  display_name: "仙侠视频提示词"
+  short_description: "将仙侠分镜适配为多平台可直接投喂的视频生成提示词"
+  default_prompt: "使用 $xianxia-video-prompt 将仙侠剧本或分镜转换为固定结构、状态连续、可直接交给下一环节的视频生成 Prompt。"

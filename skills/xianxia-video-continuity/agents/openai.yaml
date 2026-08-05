@@ -1,0 +1,4 @@
+interface:
+  display_name: "仙侠视频接镜"
+  short_description: "依据实际成片保持人物、动作、法术、法宝与摄影机连续性"
+  default_prompt: "使用 $xianxia-video-continuity 分析上一段视频并续写下一段。"

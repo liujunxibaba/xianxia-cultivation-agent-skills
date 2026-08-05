@@ -1,0 +1,4 @@
+interface:
+  display_name: "仙侠资产圣经"
+  short_description: "统一仙侠角色、场景、服装、法宝、法术与参考图视觉资产"
+  default_prompt: "使用 $xianxia-asset-bible 为仙侠项目建立统一视觉资产库。"

@@ -1,0 +1,4 @@
+interface:
+  display_name: "仙侠世界观设计"
+  short_description: "建立境界、宗门、功法、法宝、因果与天地规则完整体系"
+  default_prompt: "使用 $xianxia-worldbuilding 为项目建立可持续创作的仙侠世界观。"

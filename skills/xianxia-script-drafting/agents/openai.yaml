@@ -1,0 +1,4 @@
+interface:
+  display_name: "仙侠剧本写作"
+  short_description: "将仙侠项目档案和大纲扩写成可表演、可拍摄完整剧本"
+  default_prompt: "使用 $xianxia-script-drafting 根据大纲撰写仙侠剧本。"

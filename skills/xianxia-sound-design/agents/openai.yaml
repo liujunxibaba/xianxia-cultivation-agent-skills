@@ -1,0 +1,4 @@
+interface:
+  display_name: "仙侠声音设计"
+  short_description: "设计仙侠成片主题配乐、法术音效、静默、声音桥与混音层级"
+  default_prompt: "使用 $xianxia-sound-design 为仙侠成片制作完整声音方案。"

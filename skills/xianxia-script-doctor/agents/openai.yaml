@@ -1,0 +1,4 @@
+interface:
+  display_name: "仙侠剧本会诊"
+  short_description: "诊断仙侠剧本结构、战力、设定、爽点、情感与节奏问题"
+  default_prompt: "使用 $xianxia-script-doctor 会诊这份仙侠剧本并给出修改方案。"
